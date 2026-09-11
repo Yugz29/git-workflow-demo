@@ -7,5 +7,12 @@ Holberton "DevOps Culture & Git Collaboration" project.
 ## Context
 
 This repo is not a real application — it exists to exercise the PR
-review cycle between two collaborators, each taking a turn as author
+review cycle between three collaborators, each taking turns as author
 and reviewer.
+
+## Home page
+
+`index.html` is a simple team home page: each member has a circle
+with an icon and their name. Every teammate adds their own block
+through a dedicated branch and PR, giving each person a genuine
+review exchange.
